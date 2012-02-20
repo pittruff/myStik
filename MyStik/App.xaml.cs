@@ -58,11 +58,7 @@ namespace MyStik
         protected override void OnStartup(StartupEventArgs e)
         {
             // define application exception handler
-            //SplashScreen splashScreen = new SplashScreen(@"\Images\Mystik Testlogo 3.png");
-            //splashScreen.Show(true);
-
-
-
+           
 
 
             Application.Current.DispatcherUnhandledException += new
