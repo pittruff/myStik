@@ -1,0 +1,551 @@
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Stefan\Desktop\020311\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik.exe
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik.pdb
+H:\mystik10311\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+H:\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\App.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\App.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+H:\mystik10311\MyStik\MyStik\bin\Debug\Resources\icon.png
+H:\mystik10311\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+H:\mystik10311\MyStik\MyStik\bin\Debug\MyStik.exe
+H:\mystik10311\MyStik\MyStik\bin\Debug\MyStik.pdb
+H:\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+H:\mystik10311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+H:\mystik10311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.pdb
+H:\mystik10311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.xml
+H:\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Effects.xml
+H:\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+H:\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+H:\mystik10311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+H:\mystik10311\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\Info\Infos.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik.g.resources
+H:\mystik10311\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+H:\mystik10311\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+H:\mystik10311\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.dll
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.WPF.dll
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.pdb
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.xml
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.WPF.pdb
+C:\Users\mystik\Desktop\mystik10311\MyStik\MyStik\bin\Debug\Windows7.Multitouch.WPF.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\HtmlAgilityPack.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Windows7.Multitouch.pdb
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Windows7.Multitouch.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Windows7.Multitouch.WPF.pdb
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Windows7.Multitouch.WPF.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FHMuc\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Janitor\Screensaver.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Janitor\Screensaver.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\LoadAnim.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\LoadAnim.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SplashWindow.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\SplashWindow.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MyStik.exe.config
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Weather\Weather.baml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\obj\Debug\Weather\Weather.g.cs
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\MySql.Data.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.dll
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.xml
+C:\Users\mystik\Desktop\MyStikV2\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.xml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe.config
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\MySql.Data.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\mystik\Desktop\Mystik\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe.config
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MySql.Data.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.xml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.xml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mystik\Desktop\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe.config
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.exe
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.pdb
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Resources\icon.png
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.exe
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MyStik.pdb
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Design.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\MySql.Data.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.xml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.xml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\App.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\App.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Weather\Weather.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\LoadAnim.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Info\Infos.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\Janitor\Screensaver.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SplashWindow.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.g.resources
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+F:\RC\Mystik Current Version\Mystik\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\MyStik.exe.config
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik.exe
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\Resources\icon.png
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\Resources\iconPreview.png
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\MyStik.exe
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\MyStik.pdb
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\Microsoft.Surface.Presentation.Generic.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\MySql.Data.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\App.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Weather\Weather.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\LoadAnim.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MVV\CrawText.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\VVK\Appointment.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\App.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Weather\Weather.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Blackboard\BlackboardControl.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Blackboard\BlackboardItemControl.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Clock\Clock.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Impressum\Impressum.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Info\Infos.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Janitor\Screensaver.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\LoadAnim.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MVV\CrawText.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MVV\Fahrplan.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\News\NewsReader.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\QRCode\QRCodeImage.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\SplashWindow.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\VVK\Appointment.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\VVK\CalendarControl.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik_Content.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.cache
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik_MarkupCompile.lref
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Clock\Clock.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Impressum\Impressum.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Info\Infos.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\Janitor\Screensaver.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MVV\Fahrplan.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\News\NewsReader.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\RaumPlan\Raumplan.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\SplashWindow.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\SurfaceWindow1.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\VVK\CalendarControl.baml
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik.g.resources
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\MyStik.Properties.Resources.resources
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mystik\Desktop\MyStik\MyStik\obj\Debug\GenerateResource.write.1.tlog

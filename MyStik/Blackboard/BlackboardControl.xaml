@@ -1,0 +1,106 @@
+﻿<UserControl x:Class="myUserControls.BlackboardControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:s="http://schemas.microsoft.com/surface/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1920">
+    
+    
+    <UserControl.Resources>
+        <ImageBrush x:Key="WindowBackground" Stretch="None" Opacity="0.6" ImageSource="pack://application:,,,/Resources/WindowBackground.jpg"/>
+
+
+
+
+
+        <Style x:Key="bbItemContainerStyle" TargetType="{x:Type s:ScatterViewItem}" >
+            <Setter Property="MinHeight" Value="320" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="SingleInputRotationMode" Value="ProportionalToDistanceFromCenter" />
+            <Setter Property="Center" Value="{Binding Center}" />
+            <Setter Property="Orientation" Value="{Binding Orientation}" />
+            <Setter Property="MaxHeight" Value="900"/>
+            <Setter Property="MaxWidth" Value="900"/>
+        </Style>
+
+
+    </UserControl.Resources>
+    
+    
+    <Grid ClipToBounds="True">
+        <!--<Grid.Background>
+            <RadialGradientBrush GradientOrigin="0.5,0.5">
+                <GradientStop Color="White" Offset="0.0" />
+                <GradientStop Color="WhiteSmoke" Offset="0" />
+                <GradientStop Color="DarkGray" Offset="1.0" />
+            </RadialGradientBrush>
+        </Grid.Background>-->
+
+        <Grid.Resources>
+
+
+
+        </Grid.Resources>
+        <Viewbox Opacity=".2"  Width="1920" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" IsHitTestVisible="false">
+            <Label FontSize="72" FontWeight="ExtraBold" Foreground="Lightgray" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                <Label.Effect>
+                    <DropShadowEffect ShadowDepth="2" BlurRadius="10" Color="Black"></DropShadowEffect>
+                </Label.Effect>DEMO
+            </Label>
+        </Viewbox>
+        <StackPanel x:Name="stackpanel" Margin="20" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+            <StackPanel.Background>
+                <LinearGradientBrush >
+                    <GradientStop Color="DarkGray" Offset="1"></GradientStop>
+                    <GradientStop Color="WhiteSmoke" Offset="0.2"></GradientStop>
+                    <GradientStop Color="DarkGray" Offset="0"></GradientStop>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.Effect>
+                <DropShadowEffect BlurRadius="20"></DropShadowEffect>
+            </StackPanel.Effect>
+            
+            <Label Name="demoLabel" Width="200" FontSize="50" Foreground="Red" HorizontalContentAlignment="Center" FontWeight="Bold">
+                <Label.Effect>
+                    <DropShadowEffect BlurRadius="15" Color="Red"></DropShadowEffect>
+                </Label.Effect>DEMO</Label>
+            <TextBlock Foreground="Black" Width="200" FontSize="15" TextWrapping="Wrap" TextAlignment="Center">
+                Dir würde die Umsetzung dieser Funktion gefallen?
+                Dann lege deine Karte auf und drücke den Gefällt mir!-Button!
+            </TextBlock>
+            <s:SurfaceButton Name="likeButton" IsEnabled="false" Width="200" Height="50" FontSize="20" Margin="10" Click="likeButton_Click">Gefällt Mir!</s:SurfaceButton>
+        </StackPanel>
+        <s:ScatterView Name="blackboardScatterView" ItemContainerStyle="{StaticResource bbItemContainerStyle}"></s:ScatterView>
+        <StackPanel  HorizontalAlignment="Center" VerticalAlignment=" Bottom" Orientation="Horizontal">
+            
+            <s:SurfaceToggleButton Name="button1" Tag="sonstiges" Background="DarkGray" Checked="CategoryOn" Unchecked="CategoryOff" Width="150" Height="50">
+                <Label FontSize="20">Sonstiges</Label>
+            </s:SurfaceToggleButton>
+            <s:SurfaceToggleButton Name="button2" Tag="lernmittel" Background="DarkGray" Checked="CategoryOn" Unchecked="CategoryOff" Width="150" Height="50">
+                <Label FontSize="20">Lernmittel</Label>
+            </s:SurfaceToggleButton>
+            <s:SurfaceToggleButton Name="button3" Tag="jobs" Background="DarkGray" Checked="CategoryOn" Unchecked="CategoryOff" Width="150" Height="50">
+                <Label FontSize="20">Jobs</Label>
+            </s:SurfaceToggleButton>
+            <s:SurfaceToggleButton Name="button4" Tag="wohnungen" Background="DarkGray" Checked="CategoryOn" Unchecked="CategoryOff" Width="150" Height="50">
+                <Label FontSize="20">Immobilien</Label>
+                </s:SurfaceToggleButton>
+            <s:SurfaceToggleButton Name="button5" Tag="nachhilfe" Background="DarkGray" Checked="CategoryOn" Unchecked="CategoryOff" Width="150" Height="50">
+                <Label FontSize="20">Nachhilfe</Label>
+            </s:SurfaceToggleButton>
+            
+            <s:SurfaceToggleButton Name="allesButton" Tag="alles" Background="DarkGray" Width="150" Height="50" Checked="AllOn" Unchecked="AllOff">
+                <Label FontSize="20">Alles</Label>
+            </s:SurfaceToggleButton>
+
+            
+        </StackPanel>
+
+
+
+
+        
+    </Grid>
+</UserControl>

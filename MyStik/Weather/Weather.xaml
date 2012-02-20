@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="myUserControls.Weather"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="320">
+    <Grid>
+        
+        <StackPanel Orientation="Horizontal">
+            <Grid Width="80" Height="80">
+            <Image Name="sunny" Visibility="Hidden" Width="80" Height="80" Source="/MyStik;component/Weather/Images/sunny.png" ></Image>
+                <Image Name="rain" Visibility="Hidden" Width="80" Height="80" Source="/MyStik;component/Weather/Images/rain.png" ></Image>
+                <Image Name="storm" Visibility="Hidden" Width="80" Height="80" Source="/MyStik;component/Weather/Images/storm.png" ></Image>
+                <Image Name="snow" Visibility="Hidden" Width="80" Height="80" Source="/MyStik;component/Weather/Images/snow.png" ></Image>
+                <Image Name="clouds" Visibility="Hidden" Width="80" Height="80" Source="/MyStik;component/Weather/Images/clouds.png" ></Image>
+            </Grid>
+            <Label Foreground="Black" Name="tempLabel" VerticalAlignment="Center" FontSize="50" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+        <StackPanel VerticalAlignment="Center">
+<Label Foreground="Black" Name="conditionLabel" VerticalAlignment="Center" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12"></Label>
+                <Label Foreground="Black" Name="humidityLabel" VerticalAlignment="Center" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12"></Label>
+                
+                <Label Foreground="Black" Name="windLabel" VerticalAlignment="Center" HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12"></Label>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

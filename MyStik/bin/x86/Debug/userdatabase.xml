@@ -1,0 +1,14 @@
+﻿<users>
+  <user cardkey="033EB7970C&#xD;">
+    <username>chmielewski</username>
+    <password>gÙ´&#x10;¼</password>
+    <name>Stefan</name>
+    <lastname>Chmielewski</lastname>
+  </user>
+  <user cardkey="033EAD980C&#xD;">
+    <username>blah</username>
+    <password>'&amp;"tä</password>
+    <name>Wolfgang</name>
+    <lastname>Gossner</lastname>
+  </user>
+</users>

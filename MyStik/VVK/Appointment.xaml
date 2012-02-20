@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="myUserControls.Appointment"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:s="http://schemas.microsoft.com/surface/2008"
+             d:DesignHeight="531" d:DesignWidth="314"
+             x:Name="VvkAppointment" TouchDown="VvkAppointment_PreviewMouseDown" >
+    <Grid Margin="8" IsHitTestVisible="true">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="28"></RowDefinition>
+            <RowDefinition Height="28"></RowDefinition>
+            <RowDefinition Height="28"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="28"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <!--<Border BorderThickness="1" BorderBrush="Red"
+                Grid.ColumnSpan="2" Grid.RowSpan="5"/>-->
+
+        <Rectangle
+                   Grid.ColumnSpan="2" Grid.RowSpan="6" RadiusX="8" RadiusY="8" >
+            <Rectangle.Fill>
+                <LinearGradientBrush>
+                    <GradientStop Offset="0" Color="WhiteSmoke"></GradientStop>
+                    <GradientStop Offset=".5" Color="White"></GradientStop>
+                    <GradientStop Offset="1" Color="WhiteSmoke"></GradientStop>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+                <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="16" ShadowDepth="2"></DropShadowEffect>
+                
+            </Rectangle.Effect>
+        </Rectangle>
+
+
+
+        <!-- Vorlesungsname -->
+
+        <TextBlock Text="{Binding ElementName=VvkAppointment, Path=VName}"
+                Grid.ColumnSpan="2" Grid.Row="0" IsHitTestVisible="False"
+                   VerticalAlignment="Center" TextWrapping="Wrap" FontWeight="Bold" TextAlignment="Center" FontSize="12" Foreground="Black" Margin="4" />
+
+
+        <!-- Time (formated) -->
+        <Image Source="/Images/time.png" Stretch="Fill"
+               Grid.Row="1" IsHitTestVisible="False" Margin="5"/>
+
+        <TextBlock IsHitTestVisible="False" Text="{Binding ElementName=VvkAppointment, Path=FormatedTime}" Foreground="Black"
+                Grid.ColumnSpan="2" Grid.Row="1" Grid.Column="1"
+                   VerticalAlignment="Center" TextWrapping="Wrap"
+                   />
+
+
+        
+        
+        
+        
+
+        <!-- Room -->
+        <Image Source="/Images/noun_project_34.png" IsHitTestVisible="False" Stretch="Fill"
+               Grid.Row="3" Margin="5" />
+
+        <s:SurfaceButton Name="roomButton" Content="{Binding ElementName=VvkAppointment, Path=Room}" Tag="{Binding ElementName=VvkAppointment, Path=Room}" Foreground="WhiteSmoke" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="14" Background="Gray"
+                Grid.ColumnSpan="2" Grid.Row="3" Grid.Column="1"
+                   VerticalAlignment="Center" HorizontalAlignment="Left"  IsHitTestVisible="True"  />
+
+
+        <!-- Prof -->
+        <Image Source="/Images/prof.png" Stretch="Fill" 
+               Grid.Row="2" IsHitTestVisible="False" Margin="5" />
+        <TextBlock Text="{Binding ElementName=VvkAppointment, Path=Prof}" IsHitTestVisible="False" Foreground="Black"
+                Grid.ColumnSpan="2" Grid.Row="2" Grid.Column="1"
+                   VerticalAlignment="Center" TextWrapping="Wrap" />
+
+        <!-- Info -->
+
+        <s:SurfaceScrollViewer Grid.Row="4" Grid.ColumnSpan="2" HorizontalScrollBarVisibility="Disabled" Margin="4" MaxHeight="200">
+
+            <TextBlock Text="{Binding ElementName=VvkAppointment, Path=VInfo}" Foreground="Black"
+               
+                    TextWrapping="Wrap" />
+
+        </s:SurfaceScrollViewer>
+        
+
+
+
+    </Grid>
+</UserControl>

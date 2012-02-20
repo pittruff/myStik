@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='iso-8859-15'?> 
+
+<blackboard>
+
+	<!-- Kategorien: sonstiges/lernmittel/wohnungen/jobs/nachhilfe
+		 Category: gesuch / gebot-->
+	<item>
+		
+	
+		<title>Fahrrad zu verkaufen</title>
+		
+		<type>gebot</type> 
+		<category>sonstiges</category>
+		
+		<description>Hallo Zusammen, Sie bieten hier auf ein neues Coca-Cola Fahrrad ohne jegliche Beschädigungen. Das Rad ist eine Sonderedition, voll funktionstüchtig und verkehrssicher. Es stand bisher immer trocken und war keiner Witterung ausgesetzt. Es ist ein 26 Zoll Rad mit 21 Gängen! Vorne und Hinten voll gefedert (full suspension). Ein wirklich schönes Rad zum selber fahren oder verschenken! Entgegen anderen Angeboten, die ich hier als zu überzogen finde, ein tolles Schnäppchen! Weihnachten steht vor der Tür - schlagen Sie zu! Bei Fragen bitte mailen. Besichtigung und Probefahrt sind auch kein Problem.</description>
+
+		
+		<image>http://velospace.org/files/My_bike_1.jpg</image>
+		<image>http://velospace.org/files/My_bike_2.jpg</image>
+		<image>http://velospace.org/files/My_bike_3.jpg</image>
+		<image>http://velospace.org/files/My_bike_4.jpg</image>
+		
+	
+		<email>test@mail.com</email>
+		<tel>089/12345678</tel>
+
+		
+		<info>Preis: 190</info>
+		<info>Zustand: Gebraucht</info>
+		<info>Farbe: Schwarz</info>
+	
+	</item>
+	
+		<item>
+		
+	
+		<title>3er BMW zu verkaufen</title>
+
+		
+		<type>gebot</type> 
+		<category>sonstiges</category>
+		
+		<description>Verkaufe hier mein sehr gut gepflegtes Herzstück da ich beim Glücksrad einen Porsche gewonnen habe. Hat nur 500 T Km auf dem Buckel. Bremsen sind leider etwas abgefahren, aber sonst is alles voll funktionsfähig!!! Ruft mich an wenn ihr Interesse habt!</description>
+		
+		<image>http://www.autobild.de/ir_img/58418072_c9d64ed58e.jpg</image>
+		<image>http://fotos.autozeitung.de/462x347/images/bildergalerie/2008/12/GW-Tipp_BMW3er_003.jpg</image>
+		<image>http://i.auto-bild.de/ir_img/68320648_17d831d4e3.jpg</image>
+
+		<image>http://photos02.otomoto.pl/photos/original/C13/76/51/C13765137_1.jpg</image>
+		
+	
+		<email>test@mail.com</email>
+		<tel>089/12345678</tel>
+
+		
+		<info>Preis: 2500&#8364;</info>
+		<info>Zustand: Gebraucht</info>
+		<info>Farbe: Silber</info>
+
+	
+	</item>
+	
+		<item>
+		
+	
+		<title>Suche süsses Katzenbaby </title>
+		
+		<type>gesuch</type> 
+		<category>sonstiges</category>
+		
+		<description> Bin auf der suche nach einem kleinen süssen Kätzchen mit dem ich ganz viel kuscheln kann. Ruft mich an wenn eure Katze bald Katzenbabies erwartet</description>
+		
+		
+	
+		<email>test@mail.com</email>
+
+		<tel>089/12345678</tel>
+
+		
+		<info>Preis: VHB</info>
+		<info>Zustand:</info>
+		<info>Farbe: Schwarz oder Tigerstyle</info>
+	
+
+		
+	</item>
+
+	
+	
+		<item>
+
+		
+	
+		<title>Nachilve gesuchd</title>
+		
+		<type>gesuch</type>
+		<category>nachhilfe</category>
+		
+		<description>ik kan nisch shreipen</description>
+		
+		
+		<email>honk@mail.com</email>
+		<tel>11833</tel>
+
+		<info>Entlohnung: max. 20&#8364; / Std</info>
+		<info>Fach: Deutsch</info>
+		
+	
+
+		
+	</item>
+	
+			<item>
+		
+	
+		<title>Biete Nachhilfe in Mathematik</title>
+		
+		<type>gebot</type>
+
+		<category>nachhilfe</category>
+		
+		<description>Habe in Mathe I und II jeweils eine 1.0 und biete nun meine Dienste als Nachhilfelehrer an! Mit mir betsteht ihr alles!</description>
+		
+		
+		<email>held@mail.com</email>
+		<tel>123/123123</tel>
+
+		<info>Entlohnung: 30&#8364; pro Doppelstunde</info>
+		<info>Fach: Mathematik</info>
+
+		
+	
+
+		
+	</item>
+	
+	
+	
+	<item>
+		
+	
+		<title>Suche Papula Mathematik Formelsammlung</title>
+		
+		<type>gesuch</type>
+		<category>lernmittel</category>
+		
+		<description>will hier nichts rein schreiben</description>
+		
+	
+		
+		<email>test@mail.com</email>
+
+		<tel></tel>
+
+		
+		<info>Autor: Papula</info>
+		<info>ISBN-10: 3834805459 </info>
+		<info>Auflage: 10</info>
+		<info>Jahr: 2009</info>
+		<info>Zustand: Egal</info>
+
+		<info>Preis: </info>
+
+
+		
+	</item>
+	
+	<item>
+		
+	
+		<title>Verkaufe mein "Einführung in die Betriebswirtschaftslehre" Buch</title>
+		
+		<type>gebot</type>
+		<category>lernmittel</category>
+
+		
+		<description>Verkaufe alle meine Bücher weil ich exmatrikuliert wurde, greift zu, kaum gelesen und sau billig. Schaut euch auch meine anderen Angebote an!!!!!</description>
+		
+		<image>http://covers.openlibrary.org/b/id/3259000-M.jpg</image>
+		
+		<email>test@mail.com</email>
+		<tel>1312515152</tel>
+
+		
+		<info>Autor: Jan Schäfer-Kunz</info>
+		<info>ISBN-10: 379102356X </info>
+
+		<info>Auflage: 4</info>
+		<info>Jahr: 2005</info>
+		<info>Zustand: wie neu</info>
+		<info>Preis: 20² VHB</info>
+
+
+		
+	</item>
+	
+	<item>
+
+		
+	
+		<title>Biete Unterkunft zum Oktoberfest!</title>
+		
+		<type>gebot</type>
+		<category>wohnungen</category>
+		
+		<description>Biete mein WG Zimmer zur Untermiete während des Oktoberfests an, nur 2 Gehminuten zur Festwiese.</description>
+		
+		<image>http://www.schloesser.bayern.de/bilder/schloss/bavaria.jpg</image>
+		<image>http://www.hotel-24-deutschland.de/Bilder-Muenchen/Oktoberfest-Wiesn-Theresienwiese.jpg</image>
+
+		<image>http://farm3.static.flickr.com/2303/2209604927_4135d4c868.jpg</image>
+		
+		<email>test@mail.com</email>
+		<tel>089/1234567</tel>
+		
+			
+		<info>Wohnart: Untermiete</info>
+		<info>Warmmiete: 80 pro Nacht</info>
+		<info>Zimmerzahl: 1 </info>
+
+		<info>Wohnfläche: 12 m²</info>
+		<info>Stadtteil: Schwanthaler Höhe</info>
+
+
+		
+	</item>
+	
+		<item>
+		
+	
+		<title>Suche Nachmieter für meine moosacher Loft</title>
+		
+		<type>gesuch</type>
+
+		<category>wohnungen</category>
+		
+		<description>Schaut euch die Bilder an, bei Interesse Anrufen oder Email.</description>
+		
+		<image>http://www.germanrunway.com/wp-content/gallery/loft/boston-loft.jpg</image>
+		<image>http://www.universaldeco.es/wp-content//boston-loft.jpg</image>
+		
+		<email>test@mail.com</email>
+		<tel>0290/123123</tel>
+
+		
+			
+		<info>Wohnart: Nachmieter</info>
+		<info>Warmmiete: 2000&#8364;</info>
+		<info>Zimmerzahl: 2</info>
+		<info>Wohnfläche: 160 m²</info>
+		<info>Stadtteil: Moosach</info>
+
+
+		
+	</item>
+
+
+
+</blackboard>

@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{74A9CADE-8123-4593-A836-E43B74BF5EFF}</ProjectGuid>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <RootNamespace>MyStik</RootNamespace>
+    <AssemblyName>MyStik</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <OutputType>winexe</OutputType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <PublishUrl>Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\MyStik.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\MyStik.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>F:\MyStik\HtmlAgility\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Effects, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Expression.Effects.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Surface.Presentation.Design, Version=1.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Windows.Design.Extensibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Windows.Design.Extensibility.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.Design.Interaction, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Windows.Design.Interaction.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.3.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.3.6\Assemblies\v4.0\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PdfToImage, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PdfToImage.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\Tilt WPF\ZAxis\bin\Debug\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Microsoft.Surface.Presentation">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Surface.Presentation.Generic">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Weather\Weather.xaml.cs">
+      <DependentUpon>Weather.xaml</DependentUpon>
+    </Compile>
+    <Page Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="AccountManagement\CardReader.cs" />
+    <Compile Include="AccountManagement\Encryption.cs" />
+    <Compile Include="AccountManagement\XMLWriter.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Blackboard\BlackboardControl.xaml.cs">
+      <DependentUpon>BlackboardControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Blackboard\BlackboardItemControl.xaml.cs">
+      <DependentUpon>BlackboardItemControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Clock\Clock.xaml.cs">
+      <DependentUpon>Clock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Impressum\Impressum.xaml.cs">
+      <DependentUpon>Impressum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Info\InfoItem.cs" />
+    <Compile Include="Info\Infos.xaml.cs">
+      <DependentUpon>Infos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Janitor\Janitor.cs" />
+    <Compile Include="Janitor\Screensaver.xaml.cs">
+      <DependentUpon>Screensaver.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Janitor\StatusReport.cs" />
+    <Compile Include="LoadAnim.xaml.cs">
+      <DependentUpon>LoadAnim.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVV\CrawText.xaml.cs">
+      <DependentUpon>CrawText.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVV\Fahrplan.xaml.cs">
+      <DependentUpon>Fahrplan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVV\FahrplanItem.cs" />
+    <Compile Include="MVV\Purge.cs" />
+    <Compile Include="News\NewsItemClass.cs" />
+    <Compile Include="News\NewsReader.xaml.cs">
+      <DependentUpon>NewsReader.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="QRCode\QRCodeImage.xaml.cs">
+      <DependentUpon>QRCodeImage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RaumPlan\Raumplan.xaml.cs">
+      <DependentUpon>Raumplan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SplashWindow.xaml.cs">
+      <DependentUpon>SplashWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VVK\Appointment.xaml.cs">
+      <DependentUpon>Appointment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VVK\CalendarControl.xaml.cs">
+      <DependentUpon>CalendarControl.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Weather\Weather.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SurfaceWindow1.xaml.cs">
+      <DependentUpon>SurfaceWindow1.xaml</DependentUpon>
+    </Compile>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Weather\Images\clouds.png" />
+    <Resource Include="Weather\Images\rain.png" />
+    <Resource Include="Weather\Images\snow.png" />
+    <Resource Include="Weather\Images\storm.png" />
+    <Resource Include="Weather\Images\sunny.png" />
+    <Resource Include="Resources\FavIcons\trash.png" />
+    <Content Include="Videos\BlackboardTutorial.mp4" />
+    <Content Include="Videos\GamesTutorial.mp4" />
+    <Content Include="Videos\InfoTutorial.mp4" />
+    <Content Include="Videos\MVVTutorial.mp4" />
+    <Content Include="Videos\NewsTutorial.mp4" />
+    <Content Include="Videos\RaumplanTutorial.mp4" />
+    <Content Include="Videos\VVKTutorial.mp4" />
+    <Resource Include="Images\Microsoft Blackboard_501.ico" />
+    <Resource Include="Images\Microsoft Rebound_501.ico" />
+    <Resource Include="Images\Air_Hockey_PNG_PShop.png" />
+    <Resource Include="Images\fluid.jpg" />
+    <Resource Include="Images\airhockey.jpg" />
+    <Resource Include="Images\tail.jpg" />
+    <Resource Include="Images\Mystik Testlogo 3.png" />
+    <Resource Include="Images\Spruce-knob-night-sky-1.jpg" />
+    <Resource Include="Images\image_name2.png" />
+    <Resource Include="Images\image_name7.png" />
+    <Resource Include="Images\image_name8.png" />
+    <Resource Include="Images\image_name21.png" />
+    <Resource Include="Images\image_name71.png" />
+    <Resource Include="Images\image_name81.png" />
+    <Resource Include="Images\HELP.png" />
+    <Resource Include="Images\Achtung.png" />
+    <Resource Include="Images\Achtung1.png" />
+    <Resource Include="Images\Achtung2.png" />
+    <Resource Include="Images\noun_project_34.png" />
+    <Resource Include="Images\time.png" />
+    <Resource Include="Images\room.png" />
+    <Resource Include="Images\prof.png" />
+    <Content Include="Resources\MyStik_Intro_und_Funktionen2.mp4" />
+    <Resource Include="Resources\icons16\document-open.png" />
+    <Resource Include="Resources\icons32\appointment-new.png" />
+    <Resource Include="Resources\icons32\contact-new.png" />
+    <Resource Include="Resources\icons32\dialog-information.png" />
+    <Resource Include="Resources\icons32\start-here.png" />
+    <Resource Include="Resources\info-icon.png" />
+    <Resource Include="Resources\mail-forward.png" />
+    <Resource Include="Resources\FavIcons\Spiegel.ico" />
+    <Resource Include="Resources\FavIcons\kicker.ico" />
+    <Resource Include="Resources\FavIcons\golem.ico" />
+    <Resource Include="Resources\FavIcons\munichx.ico" />
+    <Resource Include="Resources\FavIcons\user-trash.png" />
+    <Resource Include="Resources\FavIcons\user-trashgrün.png" />
+    <Resource Include="Resources\delete.png" />
+    <Content Include="Resources\HTMLPage1.htm" />
+    <Content Include="Resources\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\iconPreview.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Resources\SurfaceWindow2Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\WindowBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Blackboard\BlackboardControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Blackboard\BlackboardItemControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Clock\Clock.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Impressum\Impressum.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Info\Infos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Janitor\Screensaver.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoadAnim.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVV\CrawText.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVV\Fahrplan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="News\NewsReader.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="QRCode\QRCodeImage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RaumPlan\Raumplan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SplashWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SurfaceWindow1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VVK\Appointment.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VVK\CalendarControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

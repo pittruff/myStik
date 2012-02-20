@@ -1,0 +1,128 @@
+﻿<UserControl x:Class="myUserControls.Infos"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:s="http://schemas.microsoft.com/surface/2008"
+             xmlns:local="clr-namespace:myUserControls"
+             
+             mc:Ignorable="d" 
+             d:DesignHeight="780" d:DesignWidth="1920" Initialized="UserControl_Initialized">
+    <Grid>
+        <Grid.Resources>
+            <DataTemplate x:Key="LibraryItemTemplate">
+                
+                <Viewbox Stretch="Uniform">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"></RowDefinition>
+                            <RowDefinition Height="20"></RowDefinition>
+                        </Grid.RowDefinitions>
+                            <Image Grid.Row="0" Width="50" Height="50" Stretch="Uniform" Source="{Binding Bitmap}"/>
+                        <TextBlock TextAlignment="Center" Grid.Row="1" Text="{Binding shortName}" Foreground="White" FontSize="6" Width="50" Height="30" TextWrapping="wrap"></TextBlock>
+                </Grid>
+                </Viewbox>
+                    
+                
+            </DataTemplate>
+            <Style x:Key="DataItemScatterItemStyle" TargetType="{x:Type s:ScatterViewItem}">
+                <Setter Property="MinWidth" Value="69" />
+                <Setter Property="MinHeight" Value="69" />
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type s:ScatterViewItem}">
+                            <Border x:Name="container">
+                                
+                                    <Viewbox Stretch="Uniform" Margin="5">
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="50"></RowDefinition>
+                                            <RowDefinition Height="20"></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <Image Grid.Row="0" Width="50" Height="50" Stretch="Uniform" Source="{Binding Bitmap}"/>
+                                        <TextBlock TextAlignment="Center" Grid.Row="1" Text="{Binding shortName}" FontSize="6" Width="50" Height="30" TextWrapping="wrap"></TextBlock>
+                                    </Grid>
+                                </Viewbox>
+                                    
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </Grid.Resources>
+        <!--<Grid.Background>
+            <RadialGradientBrush GradientOrigin="0.5,0.5">
+                <GradientStop Color="White" Offset="0.0" />
+                <GradientStop Color="WhiteSmoke" Offset="0" />
+                <GradientStop Color="DarkGray" Offset="1.0" />
+            </RadialGradientBrush>
+        </Grid.Background>-->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Label HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="20" Foreground="Black">Mensa-Speisekarte</Label>
+                <Border Height="0"></Border>    
+                
+                <s:SurfaceListBox  AllowDrop="false" Background="Darkgray"  Name="MensaMenu" Width="340" Height="680" Margin="50,0">
+                    <s:SurfaceListBox.Effect>
+                        <DropShadowEffect BlurRadius="20"></DropShadowEffect>
+                    </s:SurfaceListBox.Effect>
+                
+            </s:SurfaceListBox>
+                <s:SurfaceButton Width="300" Background="Gray" Height="50" Margin="10" FontSize="20" Foreground="WhiteSmoke" Click="SurfaceButton_Click_1">Heute</s:SurfaceButton>
+            </StackPanel>
+            
+            <StackPanel VerticalAlignment="Bottom">
+                <Grid Height="305" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Label Foreground="Black" Name="TimeLabel"  FontWeight="Bold" FontSize="72" VerticalAlignment="Center" HorizontalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" >14:15</Label>
+                        <Label Foreground="Black" Name="DateLabel" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" >Dienstag, 6. September 2011</Label>
+                        <local:Weather VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10,0"></local:Weather>
+                    </StackPanel>
+                </Grid>
+                <Label FontWeight="Bold" FontSize="20" Width="200" HorizontalContentAlignment="Center" Foreground="Black">Info-Rubriken:</Label>
+                <Border Height="20"></Border>
+                <Grid>
+                
+                <s:LibraryContainer Margin="0,20" ViewingMode="Bar" CanSwitchViewingMode="false" Name="docContainer" ClipToBounds="False" Width="600" Height="400" HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="Transparent" Foreground="Transparent" Background="Gray">
+                    <s:LibraryContainer.StackView>
+                        <s:StackView ItemTemplate="{StaticResource LibraryItemTemplate}">
+                        </s:StackView>
+                    </s:LibraryContainer.StackView>
+                    <s:LibraryContainer.BarView>
+                        <s:BarView ItemTemplate="{StaticResource LibraryItemTemplate}" Rows="1" 
+                                           DragCursorStyle="{StaticResource DataItemScatterItemStyle}">
+                        </s:BarView>
+                    </s:LibraryContainer.BarView>
+                </s:LibraryContainer>
+                    <StackPanel Margin="0,0,0,35" VerticalAlignment="Bottom" Orientation="Horizontal" HorizontalAlignment="Center" >
+                        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="WhiteSmoke" FontSize="20" TextWrapping="Wrap">Dokumente zum Betrachten auf die freie Fläche ziehen</TextBlock>
+                        <Image Margin="30,0" Width="30" Height="30" Source="/Images/noun_project_34.png"  HorizontalAlignment="Center" Stretch="Fill"  VerticalAlignment="Center">
+                           
+                        </Image>
+
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+            <Grid>
+           
+            <!--<Border Width="492" Height="702" Background="Black">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="20"></DropShadowEffect>
+                </Border.Effect>-->
+                <s:ScatterView Name="viewer" Margin="50,0,0,0" Background="Transparent" AllowDrop="true"  Width="800" Height="780" s:SurfaceDragDrop.Drop="ScatterView_Drop">
+                    <!--<s:ScatterView.Background>
+                    <LinearGradientBrush >
+                        <GradientStop Color="DarkGray" Offset="1"></GradientStop>
+                        <GradientStop Color="White" Offset="0.5"></GradientStop>
+                        <GradientStop Color="DarkGray" Offset="0"></GradientStop>
+                    </LinearGradientBrush>
+                    </s:ScatterView.Background>-->
+
+                    </s:ScatterView>
+                
+            <!--</Border>-->
+            </Grid>
+        </StackPanel>
+        <local:LoadAnim x:Name="loadAnim" Visibility="Hidden" Width="100" Height="100" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="180,0,50,50" ></local:LoadAnim>
+    </Grid>
+</UserControl>

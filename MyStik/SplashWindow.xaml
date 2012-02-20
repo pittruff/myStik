@@ -1,0 +1,21 @@
+﻿<Window x:Class="MyStik.SplashWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:myUserControls"
+        Width="1920" Height="1080"
+        Title="SplashWindow"   ShowInTaskbar="False"         ResizeMode="NoResize"         WindowStartupLocation="CenterScreen"         WindowState="Maximized"         WindowStyle="None"         Background="WhiteSmoke"         AllowsTransparency="True" >
+    <Grid>
+        
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Image Source="/MyStik;component/Images/Mystik%20Testlogo%203.png" Width="200" Margin="20,0"></Image>
+            <Label HorizontalAlignment="Right" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" Name="versionLabel" Margin="20,0" FontSize="10" >Version: 1.1.4069</Label>
+            <local:LoadAnim Width="50" Height="50"></local:LoadAnim>
+            <Label HorizontalAlignment="Center" Name="label">loading...</Label>
+            <Grid Width="200">
+                <Rectangle Fill="Black" Width="200" Height="10"></Rectangle>
+            <Rectangle Fill="WhiteSmoke" Margin="1"></Rectangle>
+                <Rectangle Name="progressbar" Margin="3" Fill="Black" Width="0" HorizontalAlignment="Left"></Rectangle>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
