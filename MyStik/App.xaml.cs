@@ -154,7 +154,6 @@ namespace MyStik
         {
             //do whatever you need to do with the exception
             //e.Exception
-            
             //SendMessage("MyStik Crash Report - Unhandled Exception", e.Exception.InnerException.ToString());
             e.Handled = true;
 
